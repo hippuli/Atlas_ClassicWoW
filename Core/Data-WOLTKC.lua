@@ -1,4 +1,4 @@
--- $Id: Data-Classic.lua 93 2022-08-22 16:06:40Z arithmandar $
+-- $Id: Data-WOLTKC.lua 93 2022-08-22 16:06:40Z arithmandar $
 --[[
 
 	Atlas, a World of Warcraft instance map browser
